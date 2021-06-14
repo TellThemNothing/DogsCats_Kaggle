@@ -1,8 +1,7 @@
 '''
 Dogs vs cats binary classification.
-Lets try using VGG19(with bn) and Manifold Mixup.
+Lets try using VGG19(with bn).
 VGG:         https://arxiv.org/pdf/1409.1556.pdf
-ManifoldMix: https://arxiv.org/pdf/1806.05236.pdf
 '''
 import torch
 import torch.nn as nn
